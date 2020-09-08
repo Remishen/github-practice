@@ -1,6 +1,6 @@
 # github-practice
 
-check check
+check check Remi Remi
 Practice using Git &amp; Github
 
 * Fork a version of this repository to your Github account
